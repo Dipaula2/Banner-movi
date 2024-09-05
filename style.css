@@ -1,0 +1,158 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#banner {
+  position: relative;
+  width: 970px;
+  height: 250px;
+  overflow: hidden;
+  background: #0084d2;
+}
+
+#i01 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transform: scale(1.15);
+}
+
+#i02 {
+  position: absolute;
+  left: -100%;
+  top: 100%;
+  opacity: 0;
+}
+
+#i02-1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+#i03 {
+  position: absolute;
+  left: 100px;
+  top: 0;
+  opacity: 0;
+}
+
+#i04 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+#i05 {
+  position: absolute;
+  left: 0;
+  top: -100px;
+  opacity: 0;
+}
+
+#i06 {
+  position: absolute;
+  left: 100px;
+  top: 0;
+  opacity: 0;
+}
+
+#i06-1 {
+  position: absolute;
+  left: 100px;
+  top: 0;
+  opacity: 0;
+}
+
+#i06-2 {
+  position: absolute;
+  left: 100px;
+  top: 0;
+  opacity: 0;
+}
+
+#i06-3 {
+  position: absolute;
+  left: 100px;
+  top: 0;
+  opacity: 0;
+}
+
+
+#i07 {
+  position: absolute;
+  left: 0;
+  top: -100px;
+  opacity: 0;
+}
+
+#i08 {
+  position: absolute;
+  left: 100px;
+  top: 0;
+  opacity: 0;
+}
+
+#i08-1 {
+  position: absolute;
+  left: 100px;
+  top: 0;
+  opacity: 0;
+}
+
+#i08-2 {
+  position: absolute;
+  left: 100px;
+  top: 0;
+  opacity: 0;
+}
+
+#i08-3 {
+  position: absolute;
+  left: 100px;
+  top: 0;
+  opacity: 0;
+}
+
+#i09 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transform: scale(1.15);
+}
+
+#i10 {
+  position: absolute;
+  left: -100px;
+  top: 0px;
+  opacity: 0;
+}
+
+#i10-1 {
+  position: absolute;
+  left: -100px;
+  top: 0;
+  opacity: 0;
+}
+
+#i11 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+#i12 {
+  position: absolute;
+  left: 100px;
+  top: 0;
+  opacity: 0;
+}
+
+
